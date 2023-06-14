@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="lugares">
+        <item>Palacio de Gobierno</item>
+        <item>Aeropuerto</item>
+        <item>Estadio Nacional</item>
+    </array>
+</resources>
